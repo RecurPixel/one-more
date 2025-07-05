@@ -1,0 +1,12 @@
+=== 1000 DAYS ANIMATION JOURNEY ===
+
+DAY: 000
+MODEL: Snow Man
+TIME SPENT: 45 minutes
+TECHNIQUES USED: Basic mesh, scale, snappnig, parenting
+ASSETS REFERENCED: None
+CHALLENGES: Understanding snapping objects
+BREAKTHROUGH: Learned scalling, moving
+NEXT: Start with 1000 chalange (this was just for the intial setup)
+SCREENSHOT: ✓
+BLEND FILE: ✓
