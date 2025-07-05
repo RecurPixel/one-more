@@ -1,0 +1,52 @@
+Only For reference
+
+
+=== ASSETS USED - Day 001 Ice Cube ===
+
+REFERENCE IMAGES:
+- ice_cube_photo.jpg (from Google Images)
+- ice_texture_closeup.png (from Textures.com)
+- crystal_structure_diagram.jpg (Wikipedia)
+
+TEXTURES/MATERIALS:
+- None used (hardware limitations)
+- Planned: Ice shader with transparency
+- Planned: Frost texture overlay
+
+MODELS/MESHES:
+- Base cube (Blender default)
+- No external models imported
+
+TUTORIALS FOLLOWED:
+- "Blender Basics - Modeling" by Donut Guy (YouTube)
+- Blender Manual - Edge Loops section
+
+TOOLS/ADDONS:
+- Default Blender tools only
+- Loop Cut and Slide
+- Extrude tool
+
+INSPIRATION/MOOD:
+- Clear ice cubes from cocktail photos
+- Minecraft ice block aesthetic
+- Simple, clean geometry focus
+
+NOTES:
+- Kept it super simple due to hardware
+- Focus was on understanding basic mesh operations
+- Will revisit for texturing in future phases
+
+PLANNED IMPROVEMENTS:
+- Add proper ice material (Day 50+)
+- Create variations (crushed, melted)
+- Use in drink scene composition
+
+
+
+=== ASSETS USED SHORT VERSION- Day 000 Snow Man ===
+
+
+REFERENCES: ice_photo.jpg, tutorial_link
+TOOLS: Basic mesh, extrude
+NOTES: First model, kept simple
+NEXT: Will add materials later
