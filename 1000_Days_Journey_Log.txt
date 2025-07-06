@@ -10,3 +10,16 @@ BREAKTHROUGH: Learned scalling, moving
 NEXT: Start with 1000 chalange (this was just for the intial setup)
 SCREENSHOT: ✓
 BLEND FILE: ✓
+
+
+DAY: 001
+MODEL: Ice Cube
+TIME SPENT: 20 minutes
+TECHNIQUES USED: Basic mesh, scale, bavel, loop cut, mirror
+ASSETS REFERENCED: Icecube image
+CHALLENGES: unable to create smooth protruded corners of ice cube
+BREAKTHROUGH: loop cuts, knife tool
+TODO: need to add texture and colors after learning, need to improve shape of ice
+NEXT: Dice - Cube with inset faces and numbers
+SCREENSHOT: ✓
+BLEND FILE: ✓
