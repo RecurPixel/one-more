@@ -1,0 +1,7 @@
+=== ASSETS USED SHORT VERSION- Day 001 Ice Cube ===
+
+
+REFERENCES: ice_photo.jpg
+TOOLS: Basic mesh, bavel, mirror modifier
+NOTES: Need to improve the cube sahpe after learning few more modeling concepts
+NEXT: Will improve the mesh and shape of cube and add material after learning more
